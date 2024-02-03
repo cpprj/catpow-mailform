@@ -1,3 +1,3 @@
 [submodule "mailer"]
 	path = mailer
-	url = https://github.com/synchrovision/catpow-mailer.git
+	url = https://github.com/cpprj/catpow-mailer.git
